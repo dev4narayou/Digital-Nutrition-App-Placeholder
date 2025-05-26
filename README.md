@@ -2,9 +2,30 @@
 
 # Sample Screenshots (under development):
 
-<img src="readme_assets/Home.jpg" alt="Home Screen" width="400" style="margin-bottom: 20px;">
+**Login**
+<img src="readme_assets/login.png" alt="login screen" width="300">
 
-<img src="readme_assets/SimpleInsights.jpg" alt="Home Screen" width="400">
+**Home**
+<img src="readme_assets/Home.png" alt="home screen" width="300">
+
+**Insights**
+<img src="readme_assets/Insights.png" alt="insights screen" width="300">
+
+**NutriCoach – Fruit**
+<img src="readme_assets/NutriCoach_Fruit.png" alt="nutricoach fruit screen" width="300">
+
+**NutriCoach – Analyse My Day**
+<img src="readme_assets/NutriCoach_AnalyseMyDay_1.png" alt="nutricoach analyse my day 1" width="300">
+<img src="readme_assets/NutriCoach_AnalyseMyDay_2.png" alt="nutricoach analyse my day 2" width="300">
+
+**Settings**
+<img src="readme_assets/Settings.png" alt="settings screen" width="300">
+
+**Clinician Dashboard (Light)**
+<img src="readme_assets/ClinicianDashboard.png" alt="clinician dashboard light" width="300">
+
+**Clinician Dashboard (Dark)**
+<img src="readme_assets/ClinicianDashboard_Dark.png" alt="clinician dashboard dark" width="300">
 
 <br>
 
@@ -13,7 +34,7 @@
 NutriTrack Pro is an Android app developed as part of the **FIT2081 Mobile App Development** unit at Monash University. It extends the core functionality of the original NutriTrack project into a **fully-featured clinical nutrition insights app**, combining local data persistence, multi-user support, public API integration, and generative AI-powered recommendations.
 
 ---
-
+*
 ## 📲 Features
 
 ### 🔓 Authentication
